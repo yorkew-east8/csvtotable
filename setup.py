@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # add vuln test
+# zhangsan@hotmail.co.jp
 
 from setuptools import setup
 
