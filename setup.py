@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # add vuln test
 # zhangsan@hotmail.co.jp
-# root/pass123123
+# root/pass1231
 
 from setuptools import setup
 
